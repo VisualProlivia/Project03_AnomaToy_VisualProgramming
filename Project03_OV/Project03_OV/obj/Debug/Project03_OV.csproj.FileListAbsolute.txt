@@ -1,0 +1,14 @@
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\bin\Debug\ToyManual.mdf
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\bin\Debug\ToyManual_log.ldf
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\bin\Debug\Project03_OV.exe.config
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\bin\Debug\Project03_OV.exe
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\bin\Debug\Project03_OV.pdb
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\obj\Debug\Project03_OV.csproj.AssemblyReference.cache
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\obj\Debug\Project03_OV.Properties.Resources.resources
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\obj\Debug\Project03_OV.csproj.GenerateResource.cache
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\obj\Debug\Project03_OV.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\obj\Debug\Project03_OV.exe
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\obj\Debug\Project03_OV.pdb
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\obj\Debug\Project03_OV.exe.config
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\obj\Debug\Project03_OV.GameFrame.resources
+C:\Users\princ\source\repos\Project03_OV\Project03_OV\obj\Debug\Project03_OV.ManualFrame.resources
